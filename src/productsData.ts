@@ -27,12 +27,12 @@ export const productsData: ProductItem[] = [
     link: '',
     children: [
       {
-        title: 'А-Счёт',
+        title: 'Инвестсчёт',
         subtitle: 'Простой способ накопить',
         link: 'alfabank://multistep-route?version=2&fromModule=FORM&alias=brokerage-account-open-alias&prefilledDataID=investbox',
       },
       {
-        title: 'А-Вклад',
+        title: 'Инвествклад',
         subtitle: 'До 14,5% годовых с защитой капитала',
         link: 'alfabank://webFeature?type=recommendation&url=https%3A%2F%2Fweb.alfabank.ru%2Fsdui%2F%3Fendpoint%3Dv1%252Fdeposit-view%252Fshowcase%253Fproduct%253Ddeposit%26source=OPEN_NEW_PRODUCT%26screenName%3DShowcase',
       },
